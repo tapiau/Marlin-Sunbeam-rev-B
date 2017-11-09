@@ -42,9 +42,13 @@
 #define Z_DIR_PIN           33
 #define Z_ENABLE_PIN        17
 
-#define E0_STEP_PIN         6
-#define E0_DIR_PIN          7
+#define E0_STEP_PIN         34
+#define E0_DIR_PIN          35
 #define E0_ENABLE_PIN       12
+
+//#define E0_STEP_PIN         6
+//#define E0_DIR_PIN          7
+//#define E0_ENABLE_PIN       12
 
 #define HEATER_0_PIN        8 // Extruder
 #define HEATER_1_PIN        9
